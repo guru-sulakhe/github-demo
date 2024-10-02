@@ -2,5 +2,7 @@ dosa
 2 eggs
 add 2 spoons of oil
 karam
+paneer 
+onions
 
 
